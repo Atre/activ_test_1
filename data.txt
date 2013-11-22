@@ -1,0 +1,7 @@
+some text
+    8
+    3
+    4.2
+    string
+    one more string
+    5
